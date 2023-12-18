@@ -14,6 +14,7 @@ We first reproduce their results and then extend their work with a replication s
 
 - Liam Smith\*, lwsmith@middlebury.edu, @Liam-W-Smith, ORCID link, Middlebury College
 - Joseph Holler, josephh@middlebury.edu , @josephholler, ORCID link, Middlebury College
+- Alana Lutz, arlutz@middlebury.edu , @alanalutz, Middlebury College
 
 \* Corresponding author and creator
 
